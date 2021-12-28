@@ -1,0 +1,9 @@
+.jumbotron{
+    padding: 50px;
+}
+
+.card{
+    background-color: #eee;
+    padding: 25px;
+    margin-bottom: 50px;
+}
